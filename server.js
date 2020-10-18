@@ -1,9 +1,9 @@
 const http = require('http')
+const products = require('./data/products.json');
 
-const server = http.createServer((request, respose) => {
-    respose.statusCode = 200;
-    respose.setHeader('Content-Type', 'text/html');
-    respose.write('<h1>Felipe</h1>')
+const server = http.createServer((request, response) => {
+   response.writeHeader(200, {'Content-Type': 'aplication/json'});
+   response.end(JSON.stringify(products))
 });
 
 const PORT = process.env.PORT || 5000;

@@ -1,0 +1,39 @@
+[
+ {
+    "id": "1",
+    "name": "reddot1",
+    "description": "Um redetop preciso e de qualidade",
+    "price": "R$: 2345,00"
+ }, 
+ {
+    "id": "2",
+    "name": "reddot2",
+    "description": "Um redetop preciso e de qualidade",
+    "price": "R$: 1299,00"
+ },
+ {
+    "id": "3",
+    "name": "reddot3",
+    "description": "Um redetop preciso e de qualidade",
+    "price": "R$: 2345,00"
+ },
+ {
+    "id": "4",
+    "name": "reddot4",
+    "description": "Um redetop preciso e de qualidade",
+    "price": "R$: 5435,00"
+ },
+ {
+    "id": "5",
+    "name": "reddot5",
+    "description": "Um redetop preciso e de qualidade",
+    "price": "R$: 1299,00"
+ },
+ {
+    "id": "6",
+    "name": "reddot6",
+    "description": "Um redetop preciso e de qualidade",
+    "price": "R$: 1299,00"
+ }
+]
+
