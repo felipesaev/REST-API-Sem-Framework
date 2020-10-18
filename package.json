@@ -1,0 +1,16 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "📜 objetivo desse repositorio é criar uma API REST com alguns produtos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
