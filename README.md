@@ -3,7 +3,6 @@
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
@@ -69,7 +68,7 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/npm
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
